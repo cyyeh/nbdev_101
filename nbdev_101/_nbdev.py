@@ -6,7 +6,7 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://cyyeh.github.io/nbdev_101/"
+doc_url = "https://cyyeh.github.io/nbdev_101"
 
 git_url = "https://github.com/cyyeh/nbdev_101/tree/master/"
 
